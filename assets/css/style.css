@@ -1737,12 +1737,18 @@ img, svg {
   .header-actions {
     display: none;
   }
+  .header-school-name{
+    font-size: 10px;
+  }
+  .header-school-sub{
+    font-size: 10px;
+  }
 }
 
 @media (max-width: 575.98px) {
   .school-logo-frame {
-    width: 64px;
-    height: 64px;
+    width: 75px;
+    height: 65px;
   }
   .hero-cta-group {
     flex-direction: column;
